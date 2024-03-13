@@ -1,0 +1,11 @@
+$body_font_color: #666666;
+$header_font_color: #222222;
+$anchor_font_color: #006aeb;
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  color: $body_font_color;
+  box-sizing: border-box;
+}
